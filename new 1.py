@@ -7,5 +7,6 @@ print(65*a)
 print(233)
 type(2366)
 5*6
-69+a
+
 print(a**2)
+type('Lidia')
